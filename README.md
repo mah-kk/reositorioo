@@ -1,2 +1,2 @@
-# reositorioo
+# reositorio
 Repositorio 
